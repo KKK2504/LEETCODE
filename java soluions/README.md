@@ -8,12 +8,11 @@ You may assume that each input would have ***exactly*** one solution, and you ma
 
 **Example:**
 
-```
-Given nums = [2, 7, 11, 15], target = 9,
+Input: nums = [2,7,11,15], target = 9
 
-Because nums[0] + nums[1] = 2 + 7 = 9,
-return [0, 1].
-```
+Output: [0,1]
+
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 **Tags:** Array, Hash Table
 

@@ -6,6 +6,8 @@
 
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/discuss/1804940/java-solution-with-explanation-efficient-code)
 
+[91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/2646391/JAVA-SOLUTION-WITH-EASY-AND-CLEAR-EXPLANATION)
+
 [136. Single Number](https://leetcode.com/problems/single-number/discuss/1772816/java-solution-with-full-explanation-of-code)
 
 [169. Majority Element](https://leetcode.com/problems/majority-element/discuss/1792053/java-solution-with-full-explanation-easy-to-understand)

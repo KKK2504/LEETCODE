@@ -29,4 +29,6 @@
 
 [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/discuss/2640108/java-solution-with-clear-and-easy-explanation)
 
+[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/2651772/JAVA-SOLUTION-WITH-CLEAR-AND-EASY-EXPLANATION)
+
 [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/discuss/1755908/java-solution-easy-way)

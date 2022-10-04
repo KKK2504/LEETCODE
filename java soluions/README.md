@@ -10,6 +10,8 @@
 
 [91. Decode Ways (type 2)](https://leetcode.com/problems/decode-ways/discuss/2647034/Easy-and-Clear-Java-Solution-reference-with-YOUTUBE-video)
 
+[112. Path Sum](https://leetcode.com/problems/path-sum/discuss/2660497/JAVA-SOLUTION-EASY-AND-CLEAR-EXPLANATION-.-YT-video-attached)
+
 
 [136. Single Number](https://leetcode.com/problems/single-number/discuss/1772816/java-solution-with-full-explanation-of-code)
 

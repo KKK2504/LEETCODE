@@ -29,6 +29,8 @@
 
 [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/1758602/java-solution-with-full-explanation-easy-understanding)
 
+[623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/discuss/2662599/java-solution)
+
 [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/discuss/2640108/java-solution-with-clear-and-easy-explanation)
 
 [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/2651772/JAVA-SOLUTION-WITH-CLEAR-AND-EASY-EXPLANATION)

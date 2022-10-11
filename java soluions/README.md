@@ -23,6 +23,8 @@
 
 [258. Add Digits](https://leetcode.com/problems/add-digits/discuss/1755892/java-solution-using-recursion)
 
+[334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/discuss/2688886/JAVA-SOLUTION-WITH-EXPLANATION)
+
 [338. Counting Bits](https://leetcode.com/problems/counting-bits/discuss/1810599/java-solution-with-full-explanation-easy-to-understand)
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/discuss/1813903/java-solution-easy-to-understand)

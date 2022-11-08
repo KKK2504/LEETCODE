@@ -37,6 +37,8 @@
 
 [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/2651772/JAVA-SOLUTION-WITH-CLEAR-AND-EASY-EXPLANATION)
 
+[1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/discuss/2793817/JAVA-CODE-(-EXPLAINED))
+
 [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/discuss/2655967/java-solution-easy-and-clear-explanation)
 
 [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/discuss/1755908/java-solution-easy-way)

@@ -46,3 +46,5 @@
 [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/discuss/1755908/java-solution-easy-way)
 
 [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/solutions/3478377/java-solution-and-step-by-step-approach-explained/)
+
+[2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/3482294/step-by-step-java-effective-explanation/)
